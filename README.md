@@ -1,6 +1,6 @@
 # Wildfire Detection using Remote Sensing & Machine Learning
 
-## ❗ Problem Statement
+## Problem Statement
 
 Wildfires cause significant environmental and economic damage worldwide.  
 Accurate and fast detection of burned areas is critical for disaster response and ecological assessment.
